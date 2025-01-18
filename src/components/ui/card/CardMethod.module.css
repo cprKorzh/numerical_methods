@@ -1,0 +1,11 @@
+.cardWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 500px;
+    height: 135px;
+    background-color: rgb(167, 211, 202);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}

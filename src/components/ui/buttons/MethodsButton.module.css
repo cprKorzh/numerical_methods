@@ -1,0 +1,8 @@
+.methodButton {
+    color: white;
+    width: 100%;
+    height: fit-content;
+    padding: 10px;
+    background-color: rgb(23, 70, 78);
+    border-radius: 5px;
+}

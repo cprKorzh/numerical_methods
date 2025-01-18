@@ -1,0 +1,15 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    width: 1040px;
+}
+
+.inputBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardBox {
+    display: flex;
+    flex-wrap: wrap;
+}
